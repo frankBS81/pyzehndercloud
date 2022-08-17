@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+# Temp files
+__pycache__
+*.egg-info
+
+# Other files
+.auth_token.json
