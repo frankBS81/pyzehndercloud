@@ -1,2 +1,2 @@
-from .auth import AbstractAuth, OAUTH2_CLIENT_ID
-from .zehndercloud import ZehnderCloud, ZehnderCloudDeviceState
+from .auth import OAUTH2_CLIENT_ID, AbstractAuth, AuthError
+from .zehndercloud import DeviceDetails, DeviceState, ZehnderCloud
