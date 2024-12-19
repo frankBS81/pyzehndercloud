@@ -5,11 +5,10 @@ long_description = open("README.md").read()
 
 setup(
     name="pyzehndercloud",
-    version="0.1",
+    version="0.2",
     license="MIT",
-    url="https://github.com/michaelarnauts/pyzehndercloud",
+    url="https://github.com/frankBS81/pyzehndercloud",
     author="Michaël Arnauts",
-    author_email="michael.arnauts@gmail.com",
     description="Python interface for the Zehnder Cloud API.",
     long_description=long_description,
     packages=find_packages(),
